@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DoorLightController-rescue)(type Legacy)(uri ${KIPRJMOD}/DoorLightController-rescue.lib)(options "")(descr ""))
+)
